@@ -5,8 +5,9 @@ Depois do participante escolher uma porta (que ele acha que vai ter o prêmio) o
 um monstro dela.
 Assim sobram duas portas...
 Então, o apresentador oferece a oportunidade de o participante trocar de porta ou permanecer na porta que ele escolheu. 
+
 Ilustrando com um exemplo para pergunta:
-O participante escolhe a porta 2
+O participante escolhe a porta 2.
 O apresentador abre a porta 3 e sai um monstro dela.
 Aí o participante tem a escolha de permanecer na escolha inicial dele (porta 2) ou mudar para porta 1.
 No exemplo anterior, qual a probabilidade do prémio estar na porta 1 após o apresentador abrir a porta 3?

@@ -1,5 +1,5 @@
-O objetivo deste projeto é solucionar o problema Monty Hall, que tratar de criar uma simulação de cenários para provar que a probabilidade
- caculada é real. Conforme cenário abaixo:
+O objetivo deste projeto é solucionar o problema Monty Hall, que tratar de criar uma simulação de cenários para provar que a probabilidade caculada é real.
+Conforme cenário abaixo:
 QUESTÃO: 
 Imagine um programa de TV onde o participante deva escolher uma de três portas.
 Em uma das portas tem um prémio, e nas outras duas sai um monstro 
